@@ -1,5 +1,8 @@
 # Azure-cars-sales-project
 
+# Architecture:
+![image](https://github.com/user-attachments/assets/6a6a41b3-f270-4bfd-abed-87662af71918)
+
 **Project Snaps**
 
 ![image](https://github.com/user-attachments/assets/11c957d8-929e-46f1-a800-0e6bddc76ef4)
